@@ -1,0 +1,22 @@
+vhdl xil_defaultlib  \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_proc_sys_reset_0_0/sim/robot_arm_proc_sys_reset_0_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_uartlite_0_0/sim/robot_arm_axi_uartlite_0_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_microblaze_riscv_0_0/sim/robot_arm_microblaze_riscv_0_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_dlmb_v10_0/sim/robot_arm_dlmb_v10_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_ilmb_v10_0/sim/robot_arm_ilmb_v10_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_dlmb_bram_if_cntlr_0/sim/robot_arm_dlmb_bram_if_cntlr_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_ilmb_bram_if_cntlr_0/sim/robot_arm_ilmb_bram_if_cntlr_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_mdm_1_0/sim/robot_arm_mdm_1_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_smc_0/bd_0/ip/ip_1/sim/bd_c18a_psr_aclk_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_0_0/sim/robot_arm_axi_gpio_0_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_1_0/sim/robot_arm_axi_gpio_1_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_2_0/sim/robot_arm_axi_gpio_2_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_3_0/sim/robot_arm_axi_gpio_3_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_4_0/sim/robot_arm_axi_gpio_4_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_5_0/sim/robot_arm_axi_gpio_5_0.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_5_1/sim/robot_arm_axi_gpio_5_1.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_5_2/sim/robot_arm_axi_gpio_5_2.vhd" \
+"../../../../robot_arm.gen/sources_1/bd/robot_arm/ip/robot_arm_axi_gpio_5_3/sim/robot_arm_axi_gpio_5_3.vhd" \
+
+# Do not sort compile order
+nosort

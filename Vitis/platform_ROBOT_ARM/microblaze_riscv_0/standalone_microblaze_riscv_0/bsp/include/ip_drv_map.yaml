@@ -1,0 +1,30 @@
+axi_gpio_0:
+- axi_gpio
+- gpio
+axi_gpio_1:
+- axi_gpio
+- gpio
+axi_gpio_2:
+- axi_gpio
+- gpio
+axi_gpio_3:
+- axi_gpio
+- gpio
+axi_gpio_4:
+- axi_gpio
+- gpio
+axi_gpio_servo0:
+- axi_gpio
+- gpio
+axi_gpio_servo1:
+- axi_gpio
+- gpio
+axi_gpio_servo2:
+- axi_gpio
+- gpio
+axi_gpio_servo3:
+- axi_gpio
+- gpio
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
